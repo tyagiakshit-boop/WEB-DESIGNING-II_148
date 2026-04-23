@@ -1,9 +1,7 @@
 // 1. Create an empty list (array) to hold our employees
 let employees = [];
 
-// ---------------------------------------------------------
-// HELPER FUNCTIONS (To make our code shorter and reusable)
-// ---------------------------------------------------------
+
 
 // This function finds the "outputArea" in your HTML and puts content inside it
 function renderOutput(htmlContent) {
